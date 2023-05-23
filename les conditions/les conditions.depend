@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504352204 source:d:\prog\les conditions\main.c
+	<stdio.h>
+	<stdlib.h>
+
